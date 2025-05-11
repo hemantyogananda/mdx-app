@@ -67,7 +67,7 @@ export interface IPost {
     {
       title: "Machine Learning: A Beginner's Roadmap",
       slug: "machine-learning-a-beginners-roadmap",
-      author: "Rachel Patel",
+      author: "Rachel Patil",
       date: "2024-03-22",
       category: "AI/ML",
       thumbnail: "/images/thumbnails/machine-learning.jpg",
