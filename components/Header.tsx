@@ -14,9 +14,9 @@ export default function Header() {
   };
   return (
     <header className="flex justify-between items-center py-9 px-5 md:px-0">
-      <Link href={"./"} className="flex space-x-2 items-center">
+      <Link href={"/"} className="flex space-x-2 items-center">
         <Image
-          src={theme === "light" ? "./light-union.svg" : "./dark-union.svg"}
+          src={theme === "light" ? "/light-union.svg" : "/dark-union.svg"}
           width={36}
           height={36}
           alt="logo"
@@ -40,7 +40,7 @@ export default function Header() {
           aria-label="Toggle theme"
         >
           <Image
-            src={theme === "light" ? "./light-toggle.svg" : "./dark-toggle.svg"}
+            src={theme === "light" ? "/light-toggle.svg" : "/dark-toggle.svg"}
             alt="theme toggle"
             width={48}
             height={28}
