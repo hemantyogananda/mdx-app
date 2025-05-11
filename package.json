@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://hemantyogananda.github.io/mdx-app/",
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next build && npm start",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
