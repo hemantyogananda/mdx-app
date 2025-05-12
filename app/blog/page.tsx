@@ -12,7 +12,7 @@ export default function page() {
         {posts.map((p, idx) => (
           <Link
             key={idx}
-            href={`./blog/${p.slug}`}
+            href={`/blog/${p.slug}`}
             className="p-4 group rounded-lg border w-[392px] border-gray-200 dark:border-gray-700"
           >
             {/* image */}

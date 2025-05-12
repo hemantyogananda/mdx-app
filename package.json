@@ -2,9 +2,8 @@
   "name": "mdx-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hemantyogananda.github.io/mdx-app",
   "scripts": {
-    "dev": "next build && npm start",
+    "dev": "next build && next start",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
