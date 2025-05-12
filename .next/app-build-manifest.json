@@ -1,145 +1,23 @@
 {
   "pages": {
-    "/_not-found/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/chunks/app/_not-found/page-d83fcb212b6e3f67.js"
-    ],
-    "/layout": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/087afca2635faa01.css",
-      "static/chunks/app/layout-6fa1a8ed7ea7cba3.js"
-    ],
-    "/blog/cloud-computing-architecture-and-services-explained/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/cloud-computing-architecture-and-services-explained/page-2702a9a73a6b87aa.js"
-    ],
-    "/blog/abc-efg/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/abc-efg/page-2924d5505ac4b9d4.js"
-    ],
     "/blog/blockchain-beyond-cryptocurrency-real-world-applications/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/blockchain-beyond-cryptocurrency-real-world-applications/page-33506db9b833ad3e.js"
-    ],
-    "/blog/css-grid-modern-layout-techniques-for-responsive-design/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/css-grid-modern-layout-techniques-for-responsive-design/page-4b691f53af40c7ca.js"
-    ],
-    "/blog/getting-started-with-web-development-in-2024/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/getting-started-with-web-development-in-2024/page-e2affd25668d5d2d.js"
-    ],
-    "/blog/cybersecurity-in-2024-protecting-your-digital-assets/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/cybersecurity-in-2024-protecting-your-digital-assets/page-e67f17839b330c4b.js"
-    ],
-    "/blog/green-coding-building-environmentally-conscious-web-applications/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/green-coding-building-environmentally-conscious-web-applications/page-7a1ec52027f2fdbe.js"
-    ],
-    "/blog/machine-learning-a-beginners-roadmap/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/machine-learning-a-beginners-roadmap/page-bd790dd2b358198a.js"
-    ],
-    "/blog/mastering-react-hooks-a-comprehensive-guide/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/mastering-react-hooks-a-comprehensive-guide/page-55e9f20854208ed2.js"
-    ],
-    "/blog/optimizing-nextjs-applications-for-maximum-performance/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/optimizing-nextjs-applications-for-maximum-performance/page-b30577d312413aaf.js"
-    ],
-    "/blog/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/app/blog/page-2f00d2ca0eb262ca.js"
-    ],
-    "/blog/why-typescript-will-transform-your-javascript-development/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/css/2c9fa8b10b57527f.css",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/425-c64ccd3f1ddd357d.js",
-      "static/chunks/app/blog/why-typescript-will-transform-your-javascript-development/page-44bc2262468721ca.js"
-    ],
-    "/page": [
-      "static/chunks/webpack-68dbdb77cb25f255.js",
-      "static/chunks/4bd1b696-4e6290bd3a973d28.js",
-      "static/chunks/517-b69d55599e9e1a6a.js",
-      "static/chunks/main-app-810d392ec45825d0.js",
-      "static/chunks/318-67db71851bb672a2.js",
-      "static/chunks/app/page-491886a2048d30f0.js"
+      "static/chunks/_22d2ba._.js",
+      "static/chunks/app_favicon_ico_mjs_53e3fe._.js",
+      "static/chunks/[root of the server]__24fb7a._.css",
+      "static/chunks/_4e9003._.js",
+      "static/chunks/app_layout_tsx_61af54._.js",
+      "static/chunks/node_modules_e14e4c._.js",
+      "static/chunks/_ced41c._.js",
+      "static/chunks/node_modules_prismjs_7ffabe._.css",
+      "static/chunks/21445_blockchain-beyond-cryptocurrency-real-world-applications_page_mdx_tsx_c15036._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_1f56dc._.js",
+      "static/chunks/node_modules_next_dist_compiled_107ce8._.js",
+      "static/chunks/node_modules_next_dist_client_523921._.js",
+      "static/chunks/node_modules_next_dist_4bb10e._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636a._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d0a96d._.js",
+      "static/chunks/_e69f0d._.js",
+      "static/chunks/_d95469._.js"
     ]
   }
 }

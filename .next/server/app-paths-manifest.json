@@ -1,17 +1,4 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/blog/cloud-computing-architecture-and-services-explained/page": "app/blog/cloud-computing-architecture-and-services-explained/page.js",
-  "/blog/abc-efg/page": "app/blog/abc-efg/page.js",
   "/blog/blockchain-beyond-cryptocurrency-real-world-applications/page": "app/blog/blockchain-beyond-cryptocurrency-real-world-applications/page.js",
-  "/blog/css-grid-modern-layout-techniques-for-responsive-design/page": "app/blog/css-grid-modern-layout-techniques-for-responsive-design/page.js",
-  "/blog/getting-started-with-web-development-in-2024/page": "app/blog/getting-started-with-web-development-in-2024/page.js",
-  "/blog/cybersecurity-in-2024-protecting-your-digital-assets/page": "app/blog/cybersecurity-in-2024-protecting-your-digital-assets/page.js",
-  "/blog/green-coding-building-environmentally-conscious-web-applications/page": "app/blog/green-coding-building-environmentally-conscious-web-applications/page.js",
-  "/blog/machine-learning-a-beginners-roadmap/page": "app/blog/machine-learning-a-beginners-roadmap/page.js",
-  "/blog/mastering-react-hooks-a-comprehensive-guide/page": "app/blog/mastering-react-hooks-a-comprehensive-guide/page.js",
-  "/blog/optimizing-nextjs-applications-for-maximum-performance/page": "app/blog/optimizing-nextjs-applications-for-maximum-performance/page.js",
-  "/blog/page": "app/blog/page.js",
-  "/blog/why-typescript-will-transform-your-javascript-development/page": "app/blog/why-typescript-will-transform-your-javascript-development/page.js",
-  "/page": "app/page.js"
+  "/favicon.ico/route": "app/favicon.ico/route.js"
 }
