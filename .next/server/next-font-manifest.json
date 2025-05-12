@@ -1,10 +1,6 @@
 {
-  "app": {
-    "[project]/app/blog/blockchain-beyond-cryptocurrency-real-world-applications/page": [
-      "static/media/QGYsz_wNahGAdqQ43Rh_fKDptfpA4Q-s.p.881533b9.woff2"
-    ]
-  },
-  "appUsingSizeAdjust": true,
+  "app": {},
+  "appUsingSizeAdjust": false,
   "pages": {},
   "pagesUsingSizeAdjust": false
 }
